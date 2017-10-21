@@ -7,6 +7,7 @@ public class MyTestClass {
 		for (String s : args) {
 			System.out.println(s);
 		}
+		
 	}
 
 }
